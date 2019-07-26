@@ -16,7 +16,7 @@ namespace PipeClient
        static public double[,] FillFileForClient()
         {
             
-                    string[] lines = File.ReadAllLines("C:\\Users\\artur\\Desktop\\Массив1.txt");
+                    string[] lines = File.ReadAllLines("Массив1.txt");
                    
 
                     /*Создаем двумерный массив arr типа double и инициализируем его каждым значением до пробела и после,

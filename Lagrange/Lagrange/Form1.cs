@@ -240,8 +240,10 @@ namespace Lagrange
         {
             //Вызываем метод PropTimer, чтобы знать сколько потребляет памяти процесс при запуске приложения
             PropTimer();
-            //Создаем экземпляр класса Searcher с именем searcher, передавая в аргмуенты путь, расширение и кнопку Clear
-            Searcher searcher = new Searcher("C:\\Users\\artur\\Desktop", "*.txt",Clear);
+            /*Узнаем текущее местоположение директории*/
+            string startupPath = Environment.CurrentDirectory;
+            //Создаем экземпляр класса Searcher с именем searcher, передавая в аргументы путь, расширение и кнопку Clear
+            Searcher searcher = new Searcher(startupPath, "*.txt",Clear);
             searcher.Run();
             /*Скрываем график и все кнопки, кроме одной*/
             zedGraphControl1.Hide();

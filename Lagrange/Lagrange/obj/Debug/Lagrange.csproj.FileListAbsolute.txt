@@ -25,3 +25,6 @@ C:\Users\artur\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.exe
 C:\Users\artur\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.pdb
 C:\Users\artur\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.FormMemory.resources
 C:\Users\artur\source\repos\Lagrange\Lagrange\obj\Debug\Lagrange.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\Lagrange\Lagrange\bin\Debug\PipeClient.exe
+C:\Users\artur\source\repos\Lagrange\Lagrange\bin\Debug\PipeClient.pdb
+C:\Users\artur\source\repos\Lagrange\Lagrange\bin\Debug\PipeClient.exe.config

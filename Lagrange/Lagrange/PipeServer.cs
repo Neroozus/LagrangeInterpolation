@@ -28,7 +28,7 @@ namespace Lagrange
                 //Создаем процесс pipeClient
                 Process pipeClient = new Process();
                 //Указываем путь для запуска клиента
-                pipeClient.StartInfo.FileName = "C:\\Users\\artur\\source\\repos\\PipeClient\\PipeClient\\bin\\Debug\\PipeClient.exe";
+                pipeClient.StartInfo.FileName = "PipeClient.exe";
                 /*pipeClient получает в качестве аргумента
                  *Подключенный анонимный пайп клиент поток дескриптора объекта в виде строки*/
                 pipeClient.StartInfo.Arguments = pipeServer.GetClientHandleAsString();

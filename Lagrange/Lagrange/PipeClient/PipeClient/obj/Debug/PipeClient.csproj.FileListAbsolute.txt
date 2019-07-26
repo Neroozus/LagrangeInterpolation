@@ -1,0 +1,14 @@
+C:\Users\artur\source\repos\PipeClient\PipeClient\bin\Debug\PipeClient.exe.config
+C:\Users\artur\source\repos\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+C:\Users\artur\source\repos\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+C:\Users\artur\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+C:\Users\artur\source\repos\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
+C:\Users\artur\source\repos\Lagrange\Lagrange\PipeClient\PipeClient\bin\Debug\PipeClient.exe.config
+C:\Users\artur\source\repos\Lagrange\Lagrange\PipeClient\PipeClient\bin\Debug\PipeClient.exe
+C:\Users\artur\source\repos\Lagrange\Lagrange\PipeClient\PipeClient\bin\Debug\PipeClient.pdb
+C:\Users\artur\source\repos\Lagrange\Lagrange\PipeClient\PipeClient\obj\Debug\PipeClient.csprojAssemblyReference.cache
+C:\Users\artur\source\repos\Lagrange\Lagrange\PipeClient\PipeClient\obj\Debug\PipeClient.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\Lagrange\Lagrange\PipeClient\PipeClient\obj\Debug\PipeClient.exe
+C:\Users\artur\source\repos\Lagrange\Lagrange\PipeClient\PipeClient\obj\Debug\PipeClient.pdb
